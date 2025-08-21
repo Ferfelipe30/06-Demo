@@ -7,3 +7,5 @@
 6. Mientros eliminados.
 7. Buscar una moneda
 8. Sacar al villano
+
+Misiones de los herues de DC
